@@ -7,6 +7,11 @@ authors = ["cyberprophet <cyberprophet@hanmail.net>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "2.28.2"
+Flask = "2.2.3"
+Flask-Migrate = "4.0.4"
+Flask-WTF = "1.1.1"
+Flask-SQLAlchemy = "3.0.3"
+Werkzeug = "2.2.3"
 
 [tool.poetry.dev-dependencies]
 
